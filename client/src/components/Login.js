@@ -32,7 +32,7 @@ function Login(props) {
         },
         validationSchema: loginSchema,
         onSubmit: async (values) => {
-            const response = await fetch("http://localhost:8080/api/auth/login", {
+            const response = await fetch("https://dr0pbox.herokuapp.com/api/auth/login", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
