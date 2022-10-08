@@ -3,10 +3,8 @@
 <br />
 <div align="center">
   <p align="center">
-    DropBox - write down your plans
     
-    <br />
-    <br />
+      <a href="https://dr0pbox.netlify.app/about">DropBox - write down your plans</a>
     
   </p>
 </div>
