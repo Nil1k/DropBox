@@ -3,14 +3,11 @@
 <br />
 <div align="center">
   <p align="center">
-    INotebook - Your Notebook on the cloud
+    DropBox - write down your plans
+    
     <br />
     <br />
-    <!-- <a href="https://github.com/yashfalke77">View Demo</a> -->
-    <!-- · -->
-    <a href="https://github.com/yashfalke77/iNotebook/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yashfalke77/iNotebook/issues">Request Feature</a>
+    
   </p>
 </div>
 
