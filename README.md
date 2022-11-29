@@ -4,7 +4,7 @@
 <div align="center">
   <p align="center">
     
-      DropBox - write down your plans(https://dr0pbox.netlify.app/about)
+      
     
   </p>
 </div>
